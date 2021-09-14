@@ -1,0 +1,17 @@
+.card{
+    background-color: lightgreen;
+    display: inline-block;
+    border-radius: .5rem;
+    border-width: 0.25rem;
+    padding: 1rem;
+    margin:0.5rem;
+    box-shadow: 4px 4px 8px 0 rgb(0 0 0 / 20%);
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+}
+.card:hover,
+.grow:focus {
+  transform: scale(1.05);
+}
