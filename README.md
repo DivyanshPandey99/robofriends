@@ -1,5 +1,3 @@
-Full app can be accessed on web domain - https://robofriends-divyansh.herokuapp.com/.
-
 Robofriends is a list/grid of Robots.
 
 The styling of app is done using CSS Flexbox which is latest technology to make positioning much easier.
